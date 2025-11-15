@@ -1,0 +1,4 @@
+# One feed URL per line. Lines starting with # are ignored.
+https://openai.com/blog/rss.xml
+https://feeds.feedburner.com/AVC
+https://a16z.com/feed/

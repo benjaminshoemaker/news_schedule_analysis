@@ -1,0 +1,60 @@
+{
+  "domains_of_interest": {
+    "ai_llms_data_products": [
+      "LLM research workflows and automation",
+      "Agent orchestration (AgentKit, LangGraph, etc.)",
+      "Spec-to-prompt-to-build systems",
+      "AI evaluation frameworks and metrics",
+      "Prompt engineering"
+    ],
+    "product_management": [
+      "B2B SaaS and analytics products",
+      "Experimentation and metrics",
+      "UX measurement systems",
+      "Roadmapping and prioritization frameworks",
+      "AI product management"
+    ],
+    "startups_entrepreneurship": [
+      "Idea validation and zero-to-one discovery",
+      "Pre-seed and seed funding mechanics",
+      "Cap tables, dilution, ESOPs",
+      "Seattle startup ecosystem",
+      "Solo-founder workflows with AI"
+    ],
+    "civic_politics_elections": [
+      "Election data analysis",
+      "Polarization and partisan behavior",
+      "Industry and occupation political alignment",
+      "Swing voter and nonpartisan trends"
+    ],
+    "personal_finance_fintech": [
+      "Financial optimization and planning",
+      "Credit scoring mechanics",
+      "Regulated fintech domains",
+      "Compensation and equity modeling"
+      "Financial inde"
+    ],
+    "career_jobs_labor_market": [
+      "Job search strategy",
+      "Data/AI PM positioning",
+      "Offer comparison and negotiation",
+      "Labor market data structures (NAICS, O*NET)"
+    ],
+    "developer_data_tooling": [
+      "Snowflake, Databricks, Fivetran, dbt",
+      "CLI tools vs web apps"
+    ],
+    "parenting_family": [
+      "Child development basics",
+      "Balancing startup/job search with family"
+    ],
+    "games_sports": [
+      "Video games"
+    ],
+    "tech_future_of_work": [
+      "Augmented reality",
+      "Climate-related technology context",
+      "AI impacts on careers and startups"
+    ]
+  }
+}

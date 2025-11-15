@@ -1,0 +1,20 @@
+news_feeds:
+  # Add or swap later
+  - https://hnrss.org/frontpage
+  - https://openai.com/blog/rss.xml
+  - https://a16z.com/feed/
+  - https://stratechery.com/feed/
+  - https://feeds.feedburner.com/AVC
+
+perspective_sources:
+  hn_algolia_api: https://hn.algolia.com/api/v1/search
+  reddit_info_api: https://www.reddit.com/api/info.json   # query with ?url=<ENCODED_URL>
+  reddit_search_json: https://www.reddit.com/search.json   # fallback with ?q=<query>
+
+dataset_feeds:
+  # Verify and extend over time
+  - https://catalog.data.gov/feeds/dataset.atom
+  - https://data.gov.uk/data/search.rss
+  - https://opendata.cityofnewyork.us/feed/      # or NYC portal recent feed
+  - https://datacatalog.worldbank.org/atom.xml   # if available; otherwise skip
+  # Add sector portals you care about (education, finance regulators, sports)
